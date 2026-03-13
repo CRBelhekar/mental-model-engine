@@ -1,5 +1,5 @@
 {
-  "03-01": {
+  "03-14": {
     "id": 1,
     "thinker": "Charlie Munger",
     "category": "Inversion",
@@ -9,7 +9,7 @@
     "reflection_prompt": "Where in your work are you trying to optimize, instead of eliminating obvious errors?",
     "action_prompt": "Write one behavior to avoid today."
   },
-  "03-02": {
+  "03-15": {
     "id": 2,
     "thinker": "Richard Feynman",
     "category": "First Principles",
@@ -19,7 +19,7 @@
     "reflection_prompt": "What concept are you pretending to understand?",
     "action_prompt": "Explain one complex idea in plain language today."
   },
-  "03-03": {
+  "03-16": {
     "id": 3,
     "thinker": "Marcus Aurelius",
     "category": "Control",
@@ -29,7 +29,7 @@
     "reflection_prompt": "What are you currently worrying about that you cannot control?",
     "action_prompt": "Redirect effort to one controllable action."
   },
-  "03-04": {
+  "03-17": {
     "id": 4,
     "thinker": "Jiddu Krishnamurti",
     "category": "Awareness",
@@ -39,7 +39,7 @@
     "reflection_prompt": "What reaction today can you observe without labeling?",
     "action_prompt": "Pause once today before responding emotionally."
   },
-  "03-05": {
+  "03-18": {
     "id": 5,
     "thinker": "Charlie Munger",
     "category": "Incentives",
@@ -49,7 +49,7 @@
     "reflection_prompt": "What invisible incentive is driving your current decisions?",
     "action_prompt": "Adjust one incentive in your environment."
   },
-  "03-06": {
+  "03-19": {
     "id": 6,
     "thinker": "Richard Feynman",
     "category": "Intellectual Honesty",
@@ -59,7 +59,7 @@
     "reflection_prompt": "Where might you be rationalizing instead of reasoning?",
     "action_prompt": "Challenge one assumption today."
   },
-  "03-07": {
+  "03-20": {
     "id": 7,
     "thinker": "Marcus Aurelius",
     "category": "Impermanence",
@@ -69,7 +69,7 @@
     "reflection_prompt": "What current stress will not matter in five years?",
     "action_prompt": "Detach slightly from one emotional trigger."
   },
-  "03-08": {
+  "03-21": {
     "id": 8,
     "thinker": "Jiddu Krishnamurti",
     "category": "Freedom from Conditioning",
@@ -79,7 +79,7 @@
     "reflection_prompt": "Which belief of yours has never been deeply examined?",
     "action_prompt": "Question one inherited assumption."
   },
-  "03-09": {
+  "03-22": {
     "id": 9,
     "thinker": "Charlie Munger",
     "category": "Compounding",
@@ -89,7 +89,7 @@
     "reflection_prompt": "Where can patience multiply results?",
     "action_prompt": "Commit to one long-term behavior."
   },
-  "03-10": {
+  "03-23": {
     "id": 10,
     "thinker": "Richard Feynman",
     "category": "Curiosity",
