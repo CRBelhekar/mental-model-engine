@@ -4,7 +4,7 @@
     "thinker": "Charlie Munger",
     "category": "Inversion",
     "title": "Invert, Always Invert",
-    "quote": "All I want to know is where I’m going to die, so I’ll never go there.",
+    "quote": "All I want to know is where I'm going to die, so I'll never go there.",
     "explanation": "Inversion means solving problems backward. Instead of asking how to succeed, ask how to fail and avoid those paths. Most success is built by systematically removing stupidity rather than seeking brilliance.",
     "reflection_prompt": "Where in your work are you trying to optimize, instead of eliminating obvious errors?",
     "action_prompt": "Write one behavior to avoid today."
@@ -14,7 +14,7 @@
     "thinker": "Richard Feynman",
     "category": "First Principles",
     "title": "Understand From the Ground Up",
-    "quote": "If you can’t explain something in simple terms, you don’t understand it.",
+    "quote": "If you can't explain something in simple terms, you don't understand it.",
     "explanation": "First principles thinking means breaking ideas down to fundamental truths and rebuilding from there. Remove assumptions. Reduce complexity. Clarity comes from simplicity.",
     "reflection_prompt": "What concept are you pretending to understand?",
     "action_prompt": "Explain one complex idea in plain language today."
@@ -44,7 +44,7 @@
     "thinker": "Charlie Munger",
     "category": "Incentives",
     "title": "Show Me the Incentive",
-    "quote": "Show me the incentive and I’ll show you the outcome.",
+    "quote": "Show me the incentive and I'll show you the outcome.",
     "explanation": "Human behavior follows incentives. Always analyze the reward structure behind decisions. Understanding incentives reveals predictable patterns.",
     "reflection_prompt": "What invisible incentive is driving your current decisions?",
     "action_prompt": "Adjust one incentive in your environment."
@@ -94,7 +94,108 @@
     "thinker": "Richard Feynman",
     "category": "Curiosity",
     "title": "Stay Curious",
-    "quote": "I would rather have questions that can’t be answered than answers that can’t be questioned.",
+    "quote": "I would rather have questions that can't be answered than answers that can't be questioned.",
+    "explanation": "Curiosity fuels discovery. Protect your ability to ask questions. Certainty closes doors; inquiry opens them.",
+    "reflection_prompt": "What question have you stopped asking?",
+    "action_prompt": "Ask one deeper question today."
+  }
+
+  "03-14": {
+    "id": 11,
+    "thinker": "Charlie Munger",
+    "category": "Inversion",
+    "title": "Invert, Always Invert",
+    "quote": "All I want to know is where I'm going to die, so I'll never go there.",
+    "explanation": "Inversion means solving problems backward. Instead of asking how to succeed, ask how to fail and avoid those paths. Most success is built by systematically removing stupidity rather than seeking brilliance.",
+    "reflection_prompt": "Where in your work are you trying to optimize, instead of eliminating obvious errors?",
+    "action_prompt": "Write one behavior to avoid today."
+  },
+  "03-15": {
+    "id": 12,
+    "thinker": "Richard Feynman",
+    "category": "First Principles",
+    "title": "Understand From the Ground Up",
+    "quote": "If you can't explain something in simple terms, you don't understand it.",
+    "explanation": "First principles thinking means breaking ideas down to fundamental truths and rebuilding from there. Remove assumptions. Reduce complexity. Clarity comes from simplicity.",
+    "reflection_prompt": "What concept are you pretending to understand?",
+    "action_prompt": "Explain one complex idea in plain language today."
+  },
+  "03-16": {
+    "id": 13,
+    "thinker": "Marcus Aurelius",
+    "category": "Control",
+    "title": "Focus Only on What You Control",
+    "quote": "You have power over your mind — not outside events.",
+    "explanation": "Energy wasted on uncontrollable outcomes creates suffering. Discipline your attention. Act where you have agency. Accept what lies beyond your influence.",
+    "reflection_prompt": "What are you currently worrying about that you cannot control?",
+    "action_prompt": "Redirect effort to one controllable action."
+  },
+  "03-17": {
+    "id": 14,
+    "thinker": "Jiddu Krishnamurti",
+    "category": "Awareness",
+    "title": "Observe Without Judgment",
+    "quote": "The ability to observe without evaluating is the highest form of intelligence.",
+    "explanation": "Most thoughts are reactions conditioned by past experience. Pure observation creates clarity. Awareness dissolves distortion.",
+    "reflection_prompt": "What reaction today can you observe without labeling?",
+    "action_prompt": "Pause once today before responding emotionally."
+  },
+  "03-18": {
+    "id": 15,
+    "thinker": "Charlie Munger",
+    "category": "Incentives",
+    "title": "Show Me the Incentive",
+    "quote": "Show me the incentive and I'll show you the outcome.",
+    "explanation": "Human behavior follows incentives. Always analyze the reward structure behind decisions. Understanding incentives reveals predictable patterns.",
+    "reflection_prompt": "What invisible incentive is driving your current decisions?",
+    "action_prompt": "Adjust one incentive in your environment."
+  },
+  "03-19": {
+    "id": 16,
+    "thinker": "Richard Feynman",
+    "category": "Intellectual Honesty",
+    "title": "Do Not Fool Yourself",
+    "quote": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "explanation": "Self-deception blocks learning. Question your certainty. Seek disconfirming evidence. Intellectual humility sharpens understanding.",
+    "reflection_prompt": "Where might you be rationalizing instead of reasoning?",
+    "action_prompt": "Challenge one assumption today."
+  },
+  "03-20": {
+    "id": 17,
+    "thinker": "Marcus Aurelius",
+    "category": "Impermanence",
+    "title": "Everything Is Temporary",
+    "quote": "All is ephemeral — both memory and the object of memory.",
+    "explanation": "Life, praise, failure — all fade. Recognizing impermanence reduces ego and fear. It sharpens gratitude and steadiness.",
+    "reflection_prompt": "What current stress will not matter in five years?",
+    "action_prompt": "Detach slightly from one emotional trigger."
+  },
+  "03-21": {
+    "id": 18,
+    "thinker": "Jiddu Krishnamurti",
+    "category": "Freedom from Conditioning",
+    "title": "Question Conditioning",
+    "quote": "It is no measure of health to be well adjusted to a profoundly sick society.",
+    "explanation": "Much of identity is inherited conditioning. Freedom begins when beliefs are examined instead of blindly accepted.",
+    "reflection_prompt": "Which belief of yours has never been deeply examined?",
+    "action_prompt": "Question one inherited assumption."
+  },
+  "03-22": {
+    "id": 19,
+    "thinker": "Charlie Munger",
+    "category": "Compounding",
+    "title": "The Power of Consistency",
+    "quote": "The big money is not in the buying and selling, but in the waiting.",
+    "explanation": "Compounding rewards patience. Small consistent actions accumulate into disproportionate outcomes. Avoid interrupting exponential growth.",
+    "reflection_prompt": "Where can patience multiply results?",
+    "action_prompt": "Commit to one long-term behavior."
+  },
+  "03-23": {
+    "id": 20,
+    "thinker": "Richard Feynman",
+    "category": "Curiosity",
+    "title": "Stay Curious",
+    "quote": "I would rather have questions that can't be answered than answers that can't be questioned.",
     "explanation": "Curiosity fuels discovery. Protect your ability to ask questions. Certainty closes doors; inquiry opens them.",
     "reflection_prompt": "What question have you stopped asking?",
     "action_prompt": "Ask one deeper question today."
